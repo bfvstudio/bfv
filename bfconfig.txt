@@ -1,0 +1,1 @@
+{"serveripaddress":"mobi.bigfun.vip","serveripaddressws":"ws://mobi.bigfun.vip:18090","myip":"mobi.bigfun.vip","newsip":"mobi.bigfun.vip"}
