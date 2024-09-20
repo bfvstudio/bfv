@@ -1,1 +1,1 @@
-{"serveripaddress":"mobi.bigfunvip.com","serveripaddressws":"ws://mobi.bigfunvip.com:18090","myip":"mobi.bigfunvip.com","newsip":"mobi.bigfunvip.com"}
+{"serveripaddress":"mobi.freefungame.xyz","serveripaddressws":"ws://mobi.freefungame.xyz:18090","myip":"mobi.freefungame.xyz","newsip":"mobi.freefungame.xyz"}
