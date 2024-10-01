@@ -1,1 +1,1 @@
-{"serveripaddress":"mobi.freefungame.xyz","serveripaddressws":"ws://mobi.freefungame.xyz:18090","myip":"mobi.freefungame.xyz","newsip":"mobi.freefungame.xyz"}
+{"serveripaddress":"mobibf.freefungame.xyz","serveripaddressws":"ws://mobibf.freefungame.xyz:18090","myip":"mobibf.freefungame.xyz","newsip":"mobibf.freefungame.xyz"}
